@@ -19,7 +19,7 @@ ARAUJO, Lowany;
 [DANILIAUSKAS, Marcelo](https://github.com/tchelauskas);
 SAMPAIO, Thaís.
 
-## Tecnologias utilizadas: Excel, Formulário e programação VBA.
+### Tecnologias utilizadas: Excel, Formulário e programação VBA.
 
 
 
