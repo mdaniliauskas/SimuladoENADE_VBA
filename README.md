@@ -16,7 +16,7 @@ O Quiz contém 35 testes no formato de alternativas, contendo 5 opções de resp
 [NASCIMENTO, Arthur](https://github.com/Arthur-cmd256);
 WATANABE, Cassia;
 ARAUJO, Lowany;
-DANILIAUSKAS, Marcelo;
+[DANILIAUSKAS, Marcelo](https://github.com/tchelauskas);
 SAMPAIO, Thaís.
 
 ## Tecnologias utilizadas: Excel, Formulário e programação VBA.
