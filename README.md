@@ -13,13 +13,13 @@ O Quiz contém 35 testes no formato de alternativas, contendo 5 opções de resp
 
 # Autores/as:
 
-NASCIMENTO, Arthur;
+[NASCIMENTO, Arthur](https://github.com/Arthur-cmd256);
 WATANABE, Cassia;
 ARAUJO, Lowany;
 DANILIAUSKAS, Marcelo;
 SAMPAIO, Thaís.
 
-Tecnologias utilizadas: Excel, Formulário e programação VBA.
+## Tecnologias utilizadas: Excel, Formulário e programação VBA.
 
 
 
