@@ -1,25 +1,35 @@
-# SimuladoENADE_VBA
-Simulado de Secretariado Executivo do ENADE adaptado para formulários automatizados em Excel e com programação VBA. 
+# Simulado ENADE VBA ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+> **Breve descrição:**  
+> Simulado do ENADE adaptado para Secretariado Executivo, com automações em VBA no Excel.
 
-# Sobre o trabalho
+## 🚀 Tecnologias
 
-Trabalho acadêmico desenvolvido para a disciplina de PMI - Programação em Microinformática, orientada pela Profª Mestre Félix, Rita (FATEC Ipiranga).
+- ![VBA](https://img.shields.io/badge/VBA-867d6c?style=flat-square&logo=microsoft-excel&logoColor=white)
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-A realização deste trabalho, tem como objetivo, orientar os estudos dos alunos sobre o tema: Secretariado Executivo, formulado com base nas questões da avaliação do Enade de 2015. 
+## 📚 Observação
 
-O Quiz contém 35 testes no formato de alternativas, contendo 5 opções de respontas, apresentando apenas um correta dentre elas. A prova utilizada, se encontra disponível no próprio site da instituição Enade (Fonte: http://portal.inep.gov.br/web/guest/educacao-superior/enade/provas-e-gabaritos).   
+Projeto acadêmico para automatização de simulados.
 
+## ⚙️ Como executar
 
-# Autores/as:
+Abra o arquivo do Excel e habilite macros para acessar as funções automáticas.
 
-[NASCIMENTO, Arthur](https://github.com/Arthur-cmd256);
-WATANABE, Cassia;
-ARAUJO, Lowany;
-[DANILIAUSKAS, Marcelo](https://github.com/tchelauskas);
-SAMPAIO, Thaís.
+## 📄 Status
 
-### Tecnologias utilizadas: Excel, Formulário e programação VBA.
+> ✅ Finalizado
 
+---
 
-
+<p align="center">
+  <a href="https://github.com/mdaniliauskas">
+    <img src="https://img.shields.io/badge/Portfólio%20GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Portfólio GitHub">
+  </a>
+  <a href="mailto:marcelo.daniliauskas@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://www.linkedin.com/in/mdaniliauskas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
